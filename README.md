@@ -1,5 +1,5 @@
 # DS210
-DS210 Final
+DS210 Final - Sam Offsey
 
 ## Purpose
 In a large company, it can be difficult to design an organizational structure that effectively represents the way employees collaborate and communicate. Organizational network analysis aims to use graph network analysis to create better teams. In this project, I will use rust to calculate centrality metrics in order to determine which employees are most central to the organization and whether the existing company structure reflects these interactions.
