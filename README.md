@@ -7,7 +7,7 @@ In a large company, it can be difficult to design an organizational structure th
 ## Dataset
 The dataset used in this project was provided by Harvard Dataverse. The graph dataset represents approximately 83,000 email communications sent between 167 accounts for a manufacturing company over a 9 month period. The csv file “communication.csv” represents this graph as a list of directional edges. The csv file “reportsto.csv” contains the official organization structure as a list of directional edges. 
 
-## Implamentation
+## Implementation
 
 To represent the graph, I created a struct called “EdgeWeightedDigraph”. This is an array that holds the strength of the connection from node i to node j as entry ij in the array. The adjacency array is an efficient way to hold the graph information. 
 
